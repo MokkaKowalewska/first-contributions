@@ -24,6 +24,7 @@ Jeremy Sipple
 - [Asiedu Brempong](https://github.com/asiedubrempong)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [Cody Garrett](https://github.com/CsCody)
+- [Monika Kowalewska](https://github.com/MokkaKowalewska)
 Saumya Prakash
 - [Dan Ingenthron](https://github.com/daningenthron)
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
@@ -46,7 +47,7 @@ Ruslan
 - [Laimon Katalor](https://github.com/bzddd)
 - [Martin Nguyen](https://github.com/NguyenMartin/)
 - [Taehyun Lee](https://github.com/taehyun-lee)
-- [Adrian Sudbury](https://github.com/asudbury) 
+- [Adrian Sudbury](https://github.com/asudbury)
 nope
 - [Elizabeth Salazar](https://github.com/annelizs)
 - [Yeshwanth Venkatesh](https://github.com/yeshwanth93)
